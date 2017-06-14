@@ -21,7 +21,7 @@
 
   * [MySQL InnoDB Tablespaces](https://github.com/wuzehv/Blog/issues/1)
 
-*  [MySQL5.7官方文档翻译：布尔全文搜索](https://github.com/wuzehv/Blog/issues/8)
+  *  [MySQL5.7官方文档翻译：布尔全文搜索](https://github.com/wuzehv/Blog/issues/8)
  
 * 工作总结
   
