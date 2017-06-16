@@ -30,5 +30,7 @@
     * [mysql命令登陆MySQL服务问题](https://github.com/wuzehv/Blog/issues/4)
     
     * [MySQL SELECT count(\*) 性能优化](https://github.com/wuzehv/Blog/issues/2)
+    
+    * [成功的匹配两篇文章的相似度，准确率接近100%](https://github.com/wuzehv/Blog/issues/9)
  
 ---------
