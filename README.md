@@ -22,6 +22,9 @@
   * [MySQL InnoDB Tablespaces](https://github.com/wuzehv/Blog/issues/1)
 
   *  [MySQL5.7官方文档翻译：布尔全文搜索](https://github.com/wuzehv/Blog/issues/8)
+  
+  * MySQL优化系列
+    * [MySQL5.7优化之优化总览](https://github.com/wuzehv/Blog/issues/10)
  
 * 工作总结
   
@@ -34,3 +37,5 @@
     * [成功的匹配两篇文章的相似度，准确率接近100%](https://github.com/wuzehv/Blog/issues/9)
  
 ---------
+
+**近期持续更新MySQL官方文档的MySQL优化章节**
