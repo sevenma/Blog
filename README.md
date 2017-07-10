@@ -25,6 +25,8 @@
   
   * MySQL优化系列
     * [MySQL5.7优化之优化总览](https://github.com/wuzehv/Blog/issues/10)
+    
+    * [MySQL5.7优化之SQL语句优化](https://github.com/wuzehv/Blog/issues/11)
  
 * 工作总结
   
