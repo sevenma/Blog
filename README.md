@@ -28,6 +28,8 @@
     
     * [MySQL5.7优化之SQL语句优化](https://github.com/wuzehv/Blog/issues/11)
     
+    * [LIMIT查询优化](https://github.com/wuzehv/Blog/issues/14)
+    
   *  [MySQL如何使用索引](https://github.com/wuzehv/Blog/issues/13)
  
 * 工作总结
@@ -39,6 +41,8 @@
     * [MySQL SELECT count(\*) 性能优化](https://github.com/wuzehv/Blog/issues/2)
     
     * [成功的匹配两篇文章的相似度，准确率接近100%](https://github.com/wuzehv/Blog/issues/9)
+    
+    * [客户端远程TCP连接MySQL服务，提示Host 'host_name' is blocked because of many connection errors.](https://github.com/wuzehv/Blog/issues/15)
  
 ---------
 
